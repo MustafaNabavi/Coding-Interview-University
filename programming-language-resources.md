@@ -64,6 +64,9 @@
 - Javascript
     - [Learn Javascript in 12 minutes](https://www.youtube.com/watch?v=Ukg_U3CnJWI)
     - [Javascript Beginner Tutorials](https://www.youtube.com/playlist?list=PL41lfR-6DnOrwYi5d824q9-Y6z3JdSgQa)
+-Flutter
+    - [flutter dev] (https://flutter.dev)
+    -Flutter docs] (https://flutter.dev/docs)
 - Other Language 1
 - Other Language 2
 - etc
